@@ -1,0 +1,2 @@
+# Quick-Utilities
+A Mindustry Javascript that can be ran directly into the console. It adds a multitude of new functions with some returning values while others can forgo specific arguments to cut to the chase with actions! This package of functions does have some functions that may desync your game if you're not hosting the server or if you're not on singleplayer, so if you ever find the game acting suspiciously odd, try /sync in the chat to synchronize back to the server's current state.
